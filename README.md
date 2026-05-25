@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtn-prabesh&label=Profile%20views&color=0e75b6&style=flat" alt="rtn-prabesh" /> </p>
 
-- 👨‍💻 All of my projects are available at [prabeshbhandari.info.np](prabeshbhandari.info.np)
+- 👨‍💻 All of my projects are available at [prabeshbhandari.info.np](https://prabeshbhandari.info.np/)
 
 - 💬 Ask me about **anything.**
 
